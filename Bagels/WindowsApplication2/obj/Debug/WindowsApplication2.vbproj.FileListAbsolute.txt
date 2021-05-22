@@ -1,0 +1,26 @@
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+I:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojAssemblyReference.cache
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\School Stuff\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+I:\School Stuff\Past Classes\CPT 212\Projects\Bagels\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+I:\School Stuff\Past Classes\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+I:\School Stuff\Past Classes\CPT 212\Projects\Bagels\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
